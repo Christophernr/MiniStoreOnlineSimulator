@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\practica c#\\carroProyecto\\mainProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E96F4D1E-E488-4A53-A510-DD4E79BBEFF3}|..\\Instrucciones\\Instrucciones.csproj|c:\\practica c#\\carroproyecto\\instrucciones\\menus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96F4D1E-E488-4A53-A510-DD4E79BBEFF3}|..\\Instrucciones\\Instrucciones.csproj|c:\\practica c#\\carroproyecto\\instrucciones\\programempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A309771-54D3-46A7-96A8-71D388F46E68}|..\\negocios\\negocios.csproj|c:\\practica c#\\carroproyecto\\negocios\\logicacompartida\\compartirfunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A309771-54D3-46A7-96A8-71D388F46E68}|..\\negocios\\negocios.csproj|c:\\practica c#\\carroproyecto\\negocios\\ingresardatos\\ruta\\servicio.ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A309771-54D3-46A7-96A8-71D388F46E68}|..\\negocios\\negocios.csproj|c:\\practica c#\\carroproyecto\\negocios\\ingresardatos\\vehiculo\\servicios.vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96F4D1E-E488-4A53-A510-DD4E79BBEFF3}|..\\Instrucciones\\Instrucciones.csproj|c:\\practica c#\\carroproyecto\\instrucciones\\programusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A309771-54D3-46A7-96A8-71D388F46E68}|..\\negocios\\negocios.csproj|c:\\practica c#\\carroproyecto\\negocios\\ingresardatos\\viaje\\servicio.viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A309771-54D3-46A7-96A8-71D388F46E68}|..\\negocios\\negocios.csproj|c:\\practica c#\\carroproyecto\\negocios\\ingresardatos\\empleado\\servicios.empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42AB845-5FCF-4B79-909C-05F446C2FA7B}|..\\conectar\\conectar.csproj|c:\\practica c#\\carroproyecto\\conectar\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69817EB9-15E1-4289-A243-B0F533258931}|..\\tablas\\tablas.csproj|c:\\practica c#\\carroproyecto\\tablas\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB96C322-D561-414A-9233-A8B9235D6C90}|..\\subclases\\subclases.csproj|c:\\practica c#\\carroproyecto\\subclases\\subclaseempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A309771-54D3-46A7-96A8-71D388F46E68}|..\\negocios\\negocios.csproj|c:\\practica c#\\carroproyecto\\negocios\\ingresardatos\\producto\\servicio.producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB96C322-D561-414A-9233-A8B9235D6C90}|..\\subclases\\subclases.csproj|c:\\practica c#\\carroproyecto\\subclases\\subclasevehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgramUsuario.cs",
+              "DocumentMoniker": "C:\\practica c#\\carroProyecto\\Instrucciones\\ProgramUsuario.cs",
+              "RelativeDocumentMoniker": "..\\Instrucciones\\ProgramUsuario.cs",
+              "ToolTip": "C:\\practica c#\\carroProyecto\\Instrucciones\\ProgramUsuario.cs",
+              "RelativeToolTip": "..\\Instrucciones\\ProgramUsuario.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwNYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:36:13.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menus.cs",
+              "DocumentMoniker": "C:\\practica c#\\carroProyecto\\Instrucciones\\menus.cs",
+              "RelativeDocumentMoniker": "..\\Instrucciones\\menus.cs",
+              "ToolTip": "C:\\practica c#\\carroProyecto\\Instrucciones\\menus.cs",
+              "RelativeToolTip": "..\\Instrucciones\\menus.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwHQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:45:00.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgramEmpresa.cs",
+              "DocumentMoniker": "C:\\practica c#\\carroProyecto\\Instrucciones\\ProgramEmpresa.cs",
+              "RelativeDocumentMoniker": "..\\Instrucciones\\ProgramEmpresa.cs",
+              "ToolTip": "C:\\practica c#\\carroProyecto\\Instrucciones\\ProgramEmpresa.cs",
+              "RelativeToolTip": "..\\Instrucciones\\ProgramEmpresa.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAiwC8BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:54:24.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "servicios.vehiculo.cs",
+              "DocumentMoniker": "C:\\practica c#\\carroProyecto\\negocios\\ingresarDatos\\vehiculo\\servicios.vehiculo.cs",
+              "RelativeDocumentMoniker": "..\\negocios\\ingresarDatos\\vehiculo\\servicios.vehiculo.cs",
+              "ToolTip": "C:\\practica c#\\carroProyecto\\negocios\\ingresarDatos\\vehiculo\\servicios.vehiculo.cs",
+              "RelativeToolTip": "..\\negocios\\ingresarDatos\\vehiculo\\servicios.vehiculo.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAhwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:45:55.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "servicio.viaje.cs",
+              "DocumentMoniker": "C:\\practica c#\\carroProyecto\\negocios\\ingresarDatos\\viaje\\servicio.viaje.cs",
+              "RelativeDocumentMoniker": "..\\negocios\\ingresarDatos\\viaje\\servicio.viaje.cs",
+              "ToolTip": "C:\\practica c#\\carroProyecto\\negocios\\ingresarDatos\\viaje\\servicio.viaje.cs",
+              "RelativeToolTip": "..\\negocios\\ingresarDatos\\viaje\\servicio.viaje.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwFcAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:45:57.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "servicio.ruta.cs",
+              "DocumentMoniker": "C:\\practica c#\\carroProyecto\\negocios\\ingresarDatos\\ruta\\servicio.ruta.cs",
+              "RelativeDocumentMoniker": "..\\negocios\\ingresarDatos\\ruta\\servicio.ruta.cs",
+              "ToolTip": "C:\\practica c#\\carroProyecto\\negocios\\ingresarDatos\\ruta\\servicio.ruta.cs",
+              "RelativeToolTip": "..\\negocios\\ingresarDatos\\ruta\\servicio.ruta.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:45:53.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "compartirFunciones.cs",
+              "DocumentMoniker": "C:\\practica c#\\carroProyecto\\negocios\\logicaCompartida\\compartirFunciones.cs",
+              "RelativeDocumentMoniker": "..\\negocios\\logicaCompartida\\compartirFunciones.cs",
+              "ToolTip": "C:\\practica c#\\carroProyecto\\negocios\\logicaCompartida\\compartirFunciones.cs",
+              "RelativeToolTip": "..\\negocios\\logicaCompartida\\compartirFunciones.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:46:04.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubclaseEmpleados.cs",
+              "DocumentMoniker": "C:\\practica c#\\carroProyecto\\subclases\\SubclaseEmpleados.cs",
+              "RelativeDocumentMoniker": "..\\subclases\\SubclaseEmpleados.cs",
+              "ToolTip": "C:\\practica c#\\carroProyecto\\subclases\\SubclaseEmpleados.cs",
+              "RelativeToolTip": "..\\subclases\\SubclaseEmpleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:46:09.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "servicios.empleado.cs",
+              "DocumentMoniker": "C:\\practica c#\\carroProyecto\\negocios\\ingresarDatos\\empleado\\servicios.empleado.cs",
+              "RelativeDocumentMoniker": "..\\negocios\\ingresarDatos\\empleado\\servicios.empleado.cs",
+              "ToolTip": "C:\\practica c#\\carroProyecto\\negocios\\ingresarDatos\\empleado\\servicios.empleado.cs",
+              "RelativeToolTip": "..\\negocios\\ingresarDatos\\empleado\\servicios.empleado.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA3wGEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:45:48.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\practica c#\\carroProyecto\\conectar\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\conectar\\Class1.cs",
+              "ToolTip": "C:\\practica c#\\carroProyecto\\conectar\\Class1.cs",
+              "RelativeToolTip": "..\\conectar\\Class1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswBgAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:44:49.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\practica c#\\carroProyecto\\tablas\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\tablas\\Class1.cs",
+              "ToolTip": "C:\\practica c#\\carroProyecto\\tablas\\Class1.cs",
+              "RelativeToolTip": "..\\tablas\\Class1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:46:12.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "servicio.producto.cs",
+              "DocumentMoniker": "C:\\practica c#\\carroProyecto\\negocios\\ingresarDatos\\producto\\servicio.producto.cs",
+              "RelativeDocumentMoniker": "..\\negocios\\ingresarDatos\\producto\\servicio.producto.cs",
+              "ToolTip": "C:\\practica c#\\carroProyecto\\negocios\\ingresarDatos\\producto\\servicio.producto.cs",
+              "RelativeToolTip": "..\\negocios\\ingresarDatos\\producto\\servicio.producto.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA1wB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:45:51.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubclaseVehiculo.cs",
+              "DocumentMoniker": "C:\\practica c#\\carroProyecto\\subclases\\SubclaseVehiculo.cs",
+              "RelativeDocumentMoniker": "..\\subclases\\SubclaseVehiculo.cs",
+              "ToolTip": "C:\\practica c#\\carroProyecto\\subclases\\SubclaseVehiculo.cs",
+              "RelativeToolTip": "..\\subclases\\SubclaseVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:46:11.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

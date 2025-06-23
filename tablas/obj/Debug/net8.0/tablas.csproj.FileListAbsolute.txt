@@ -1,0 +1,12 @@
+C:\practica c#\carroProyecto\tablas\bin\Debug\net8.0\tablas.deps.json
+C:\practica c#\carroProyecto\tablas\bin\Debug\net8.0\tablas.dll
+C:\practica c#\carroProyecto\tablas\bin\Debug\net8.0\tablas.pdb
+C:\practica c#\carroProyecto\tablas\obj\Debug\net8.0\tablas.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\carroProyecto\tablas\obj\Debug\net8.0\tablas.AssemblyInfoInputs.cache
+C:\practica c#\carroProyecto\tablas\obj\Debug\net8.0\tablas.AssemblyInfo.cs
+C:\practica c#\carroProyecto\tablas\obj\Debug\net8.0\tablas.csproj.CoreCompileInputs.cache
+C:\practica c#\carroProyecto\tablas\obj\Debug\net8.0\tablas.sourcelink.json
+C:\practica c#\carroProyecto\tablas\obj\Debug\net8.0\tablas.dll
+C:\practica c#\carroProyecto\tablas\obj\Debug\net8.0\refint\tablas.dll
+C:\practica c#\carroProyecto\tablas\obj\Debug\net8.0\tablas.pdb
+C:\practica c#\carroProyecto\tablas\obj\Debug\net8.0\ref\tablas.dll

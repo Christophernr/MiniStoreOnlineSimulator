@@ -1,0 +1,16 @@
+C:\practica c#\carroProyecto\subclases\bin\Debug\net8.0\subclases.deps.json
+C:\practica c#\carroProyecto\subclases\bin\Debug\net8.0\subclases.dll
+C:\practica c#\carroProyecto\subclases\bin\Debug\net8.0\subclases.pdb
+C:\practica c#\carroProyecto\subclases\bin\Debug\net8.0\tablas.dll
+C:\practica c#\carroProyecto\subclases\bin\Debug\net8.0\tablas.pdb
+C:\practica c#\carroProyecto\subclases\obj\Debug\net8.0\subclases.csproj.AssemblyReference.cache
+C:\practica c#\carroProyecto\subclases\obj\Debug\net8.0\subclases.GeneratedMSBuildEditorConfig.editorconfig
+C:\practica c#\carroProyecto\subclases\obj\Debug\net8.0\subclases.AssemblyInfoInputs.cache
+C:\practica c#\carroProyecto\subclases\obj\Debug\net8.0\subclases.AssemblyInfo.cs
+C:\practica c#\carroProyecto\subclases\obj\Debug\net8.0\subclases.csproj.CoreCompileInputs.cache
+C:\practica c#\carroProyecto\subclases\obj\Debug\net8.0\subclases.sourcelink.json
+C:\practica c#\carroProyecto\subclases\obj\Debug\net8.0\subclases.csproj.Up2Date
+C:\practica c#\carroProyecto\subclases\obj\Debug\net8.0\subclases.dll
+C:\practica c#\carroProyecto\subclases\obj\Debug\net8.0\refint\subclases.dll
+C:\practica c#\carroProyecto\subclases\obj\Debug\net8.0\subclases.pdb
+C:\practica c#\carroProyecto\subclases\obj\Debug\net8.0\ref\subclases.dll

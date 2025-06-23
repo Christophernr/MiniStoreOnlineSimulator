@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\conectar\conectar.csproj" />
+    <ProjectReference Include="..\negocios\negocios.csproj" />
+    <ProjectReference Include="..\subclases\subclases.csproj" />
+    <ProjectReference Include="..\tablas\tablas.csproj" />
+  </ItemGroup>
+
+</Project>
